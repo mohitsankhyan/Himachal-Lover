@@ -1,0 +1,34 @@
+<html>
+    <head>
+        <div style="text-align: center; margin-top: 40px;"><img src="Premium Vector _ Camping logo design vector.jpeg" alt=" " class="ww"></div>
+        <div style="text-align: center; margin-top: 40px;">
+        <a style="padding-right:20px;" href="Home.html">Home</a>
+        <a style="padding-right:20px;"href="about.html">About</a>
+        <a style="padding-right:20px;" href="location.html">Location</a>
+        </div>
+        <h1 class="main">Himachal Big Hearted Peoples</h1>
+    </head>
+
+        <p style="text-align: center; font-size: 20px; line-height:30px ; margin-bottom: 50px;">If we go by percentage Himachaal pradesh have highest rajput<br>0 population around 35%. In Himachal you will find maximum people with surname Thakur .<br> Himachal Politics is Dominated by rajputs Out of 6 chief ministers 5 were Rajputs .</p>
+        <div style="text-align: center;"><a href="https://www.google.co.in/" class="just" traget="_blank">Click Hear</a></div>
+        <br>
+        <hr>
+</body>
+</html>
+<style>
+        .main{
+            font-size: 50px;
+            text-align: center;
+        }
+        
+        .just{
+            font-size: 20px;
+            background-color: yellow;
+            padding: 15px 35px 15px 35px;
+            color: blue;
+        }
+       .ww{
+        height: 45px;
+        width: 45px;
+       }
+    </style>
