@@ -1,0 +1,50 @@
+<html>
+    <head>
+        <div style="text-align: center; margin-top: 40px;"><img src="Premium Vector _ Camping logo design vector.jpeg" alt=" " class="ww"></div>
+        <div style="text-align: center; margin-top: 40px;">
+        <a style="padding-right:20px;" href="Home.html">Home</a>
+        <a style="padding-right:20px;"href="About.html">About</a>
+        <a style="padding-right:20px;" href="location.html">Location</a>
+        </div>
+        <h1 class="main">I love Hill Stations</h1>
+    </head>
+    <body>
+        <div style="text-align: center;"><a href="https://www.google.co.in/" class="just" traget="_blank">Click Hear</a></div>
+        <br>
+        <hr>
+        <div style="text-align: center;">
+        <h3 style="text-align: center;">Manali</h3>
+        <img src="pexels-rajeev-sammy-1056923-12064459.jpg" alt="" class="jaa">
+        <br>
+        <h3 style="text-align: center;">Simla</h3>
+        <img src="pexels-suicide-chewbacca-2961109.jpg" alt=" " class="jaa">
+        <br>
+        <h3 style="text-align: center;">Kangra</h3>
+        <img src="pexels-k-s-aravinda-kashyap-86628820-28933429.jpg" alt="" class="jaa"></div>
+        <hr>
+    </body>
+</html>
+<style>
+        .main{
+            font-size: 50px;
+            text-align: center;
+        }
+        
+        .just{
+            font-size: 20px;
+            background-color: yellow;
+            padding: 15px 35px 15px 35px;
+            color: blue;
+        }
+      
+       .ww{
+        height: 45px;
+        width: 45px;
+       }
+       .jaa{
+        height: 600px;
+        width: 900px;
+        margin: 20px;
+
+       }
+    </style>
